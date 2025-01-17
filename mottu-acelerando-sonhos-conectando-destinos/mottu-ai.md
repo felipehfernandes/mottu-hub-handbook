@@ -1,6 +1,6 @@
 ---
-description: Sua Nova Ferramenta de Inteligência Interna
 icon: message
+description: Sua Nova Ferramenta de Inteligência Interna
 ---
 
 # Mottu Aí
@@ -11,4 +11,7 @@ Além disso, fizemos uma grande melhoria: o Mottu Aí agora acessa diretamente o
 
 Convidamos todos a testarem essa nova ferramenta e compartilharem seus feedbacks conosco. Estamos ansiosos para ouvir o que vocês acham e continuar aprimorando essa solução juntos.
 
-[Acesse aqui para começar](https://chat.mottu.io/)
+Acesso liberado para todos os emails Mottu!
+
+[Clique aqui para começar!](https://chat.mottu.io/)
+
