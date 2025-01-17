@@ -32,6 +32,8 @@ Explicamos melhor na parte que começamos a explicar sobre o Big Query e SQL, av
 
 **Quem passa os acessos.**
 
+**Site:** [**https://app.powerbi.com/groups/ad95da88-387a-44d1-a989-0214e03786a7/list?experience=power-bi\&clientSideAuth=0**](https://app.powerbi.com/groups/ad95da88-387a-44d1-a989-0214e03786a7/list?experience=power-bi\&clientSideAuth=0)
+
 Consegue o acesso com Marcellus ao uso do Power BI
 
 Acesso aos workspace solicitar ao time de dados:
