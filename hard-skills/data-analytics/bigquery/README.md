@@ -30,7 +30,7 @@ BigQuery é um serviço de armazenamento e análise de dados em nuvem fornecido 
 **Quem fornece os acessos:**\
 Eduardo Chades ou Matheus Damasceno, também conhecido como "Mineiro," é responsável por conceder os acessos necessários à plataforma.
 
-Site: [https://console.cloud.google.com/bigquery?authuser=1\&hl=pt-BR\&project=sandbox-mottu\&invt=AbnGxQ](https://console.cloud.google.com/bigquery?authuser=1\&hl=pt-BR\&project=sandbox-mottu\&invt=AbnGxQ)
+Site: [Google BigQuery](https://console.cloud.google.com/bigquery?authuser=1\&hl=pt-BR\&project=sandbox-mottu\&invt=AbnGxQ)
 
 **Onde posso estudar:**\
 Você pode estudar mais sobre BigQuery e SQL diretamente nas documentações e tutoriais fornecidos pelo Google Cloud. Algumas boas fontes incluem:
