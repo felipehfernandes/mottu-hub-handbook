@@ -9,9 +9,7 @@ Dataform é uma ferramenta usada para gerenciar pipelines de dados, permitindo o
 
 ![](<../../../.gitbook/assets/Vini (3).png>)![](<../../../.gitbook/assets/Victor Esteves (5).png>)
 
-![](<../../../.gitbook/assets/Henrique (4).png>)![](<../../../.gitbook/assets/Braga (3).png>)
-
-![](<../../../.gitbook/assets/Edu (6).png>)![](../../../.gitbook/assets/Asnar.png)
+![](<../../../.gitbook/assets/Henrique (4).png>)![](<../../../.gitbook/assets/Edu (6).png>)![](../../../.gitbook/assets/Asnar.png)
 
 
 

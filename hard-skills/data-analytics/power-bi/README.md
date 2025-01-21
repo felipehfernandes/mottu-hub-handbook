@@ -22,9 +22,7 @@ Explicamos melhor na parte que começamos a explicar sobre o Big Query e SQL, av
 
 ![](<../../../.gitbook/assets/Edu (4).png>)![](<../../../.gitbook/assets/José (1).png>)
 
-![](<../../../.gitbook/assets/Victor Esteves.png>)![](../../../.gitbook/assets/Braga.png)
-
-![](../../../.gitbook/assets/Henrique.png)![](<../../../.gitbook/assets/Nathalia (1).png>)
+![](<../../../.gitbook/assets/Victor Esteves.png>)![](../../../.gitbook/assets/Henrique.png)![](<../../../.gitbook/assets/Nathalia (1).png>)
 
 ![](../../../.gitbook/assets/Gian.png)
 

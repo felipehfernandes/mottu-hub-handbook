@@ -19,9 +19,7 @@ BigQuery é um serviço de armazenamento e análise de dados em nuvem fornecido 
 
 ![](<../../../.gitbook/assets/Victor Esteves (4).png>)![](<../../../.gitbook/assets/Henrique (3).png>)
 
-![](<../../../.gitbook/assets/Braga (2).png>)![](../../../.gitbook/assets/Nathalia.png)
-
-![](<../../../.gitbook/assets/Gian (3).png>)
+![](../../../.gitbook/assets/Nathalia.png)![](<../../../.gitbook/assets/Gian (3).png>)
 
 </details>
 
