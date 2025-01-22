@@ -1,18 +1,18 @@
 # Table of contents
 
-* [Mottu: Acelerando Sonhos, Conectando Destinos](README.md)
-  * [Cultura Mottu](mottu-acelerando-sonhos-conectando-destinos/cultura-mottu.md)
-  * [Rental](mottu-acelerando-sonhos-conectando-destinos/rental/README.md)
-    * [Manutenção](mottu-acelerando-sonhos-conectando-destinos/rental/manutencao.md)
-    * [V3](mottu-acelerando-sonhos-conectando-destinos/rental/v3.md)
-  * [Delivery](mottu-acelerando-sonhos-conectando-destinos/delivery.md)
-  * [Mottu Store](mottu-acelerando-sonhos-conectando-destinos/mottu-store.md)
-  * [Mottu Hub](mottu-acelerando-sonhos-conectando-destinos/mottu-hub/README.md)
-    * [Attraction](mottu-acelerando-sonhos-conectando-destinos/mottu-hub/attraction.md)
-    * [Development](mottu-acelerando-sonhos-conectando-destinos/mottu-hub/development.md)
-    * [Integration](mottu-acelerando-sonhos-conectando-destinos/mottu-hub/integration.md)
-  * [Equipes](mottu-acelerando-sonhos-conectando-destinos/equipes.md)
-  * [Mottu Aí](mottu-acelerando-sonhos-conectando-destinos/mottu-ai.md)
+* [Mottu](README.md)
+  * [Cultura Mottu](mottu/cultura-mottu.md)
+  * [Rental](mottu/rental/README.md)
+    * [Manutenção](mottu/rental/manutencao.md)
+    * [V3](mottu/rental/v3.md)
+  * [Delivery](mottu/delivery.md)
+  * [Mottu Store](mottu/mottu-store.md)
+  * [Mottu Hub](mottu/mottu-hub/README.md)
+    * [Attraction](mottu/mottu-hub/attraction.md)
+    * [Development](mottu/mottu-hub/development.md)
+    * [Integration](mottu/mottu-hub/integration.md)
+  * [Equipes](mottu/equipes.md)
+  * [Mottu Aí](mottu/mottu-ai.md)
 
 ## Hard Skills
 
