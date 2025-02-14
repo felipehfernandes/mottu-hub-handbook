@@ -4,7 +4,7 @@ icon: m
 
 # Mottu
 
-## O nosso handbook mudou de endereço, acesse no novo endereço: [https://handbook.mottu.io/mottu/](https://handbook.mottu.io/mottu/)
+## Acesse o novo endereço do handbook: [https://handbook.mottu.io/mottu/](https://handbook.mottu.io/mottu/)
 
 
 
